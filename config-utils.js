@@ -12,7 +12,7 @@ new Promise(exportModule => {
 
         // Namespace/module
         const ModuleName = 'utils.config-utils';
-barracks
+main
         /** Script configurations */
         const _Configurations = {
             masterKey: 'TwFrameworkConfigs'
